@@ -1,9 +1,24 @@
-@media (max-width:1024px) {
-   .navigation{
-       display: none;
-   }
-   .burger-bar{
-       display: block;
-   }
+@media (max-width:790px) {
+    .navigation {
+        display: none;
+    }
+    .burger-bar {
+        display: block;}
+   .block1{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+     }
+   .line1{
+   justify-content: center;
+        }
+	
+    .conteiner1{
+        height: auto;
+        margin-top: 500px;
 
-} 
+    }
+  
+    
+}
+

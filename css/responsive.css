@@ -15,10 +15,9 @@
 	
     .conteiner1{
         height: auto;
-        margin-top: 500px;
 
     }
-  
-    
+    .right-conteiner{
+        margin-top: 100px;
+    }    
 }
-
